@@ -36,6 +36,8 @@ td:first-child{
 .bot:hover { background: #FFDAB9; } 
 .bot:active { background: #FFDAB9; }
 .closeIt{
+	margin: 0;
+	padding: 0;
 	background-color: black;
 	color: white;
 	height: 30px;
